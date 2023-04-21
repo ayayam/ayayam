@@ -1,4 +1,3 @@
-### Hi, my name is Aya 👋
 
 <!--
 **ayayam/ayayam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  -->
-<h1 align="center">Hi 👋, I'm Aya</h1>
+<h1 align="center">Hi, I'm Aya 👋</h1>
 <h3 align="center">A passionate full-stack developer from Boston, MA</h3>
 
 - 🔭 I’m currently working on [Cook with Friends](https://github.com/ayayam/Cook_w_Friends)
