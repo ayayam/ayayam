@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate full-stack developer from Boston, MA</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on [Cook with Friends](https://github.com/ayayam/Cook_w_Friends)<br>🌱 I’m currently learning MERN-stack development at CodeSquad Boston<br>📄 Check out my experiences [Resume](https://docs.google.com/document/d/1tbijnkizxg489MQMYf3MiifN3lhFIjXTXdEtM7DW-B4/edit?usp=sharing)<br>⚡ Fun fact I love to bake and travel!
+🔭 I’m currently working on [Cook with Friends](https://github.com/ayayam/Cook_w_Friends) and [CodeSquad Comics](https://github.com/ayayam/CodeSquad-Comics)<br>🌱 I’m currently learning MERN-stack development at CodeSquad Boston<br>📄 Check out my experiences [Resume](https://docs.google.com/document/d/1tbijnkizxg489MQMYf3MiifN3lhFIjXTXdEtM7DW-B4/edit?usp=sharing)<br>⚡ Fun fact I love to bake and travel!
 
 
 ## 🌐 Socials:
