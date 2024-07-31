@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate full-stack developer from Boston, MA</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on CS50, [Cook with Friends](https://github.com/ayayam/Cook_w_Friends) and [CodeSquad Comics](https://github.com/ayayam/CodeSquad-Comics)<br>🌱 I’m currently learning ![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black)<br>📄 Check out my [experiences (resume)](https://docs.google.com/document/d/1tbijnkizxg489MQMYf3MiifN3lhFIjXTXdEtM7DW-B4/edit?usp=sharing)<br>
+🔭 I’m currently working on CS50, [Cook with Friends](https://github.com/ayayam/Cook_w_Friends) and [CodeSquad Comics](https://github.com/ayayam/CodeSquad-Comics)<br>🌱 I’m currently learning ![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black)<br>📄 Check out my [experiences (resume)](https://docs.google.com/document/d/1t4CoNT0yvk6rd3VHaU8V__SkoNSfvei4jOj4Y9lInMc/edit?usp=sharing)<br>
 
 
 ## 🌐 Socials:
